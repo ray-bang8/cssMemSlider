@@ -23,8 +23,7 @@ body {
     border: 3px solid #ccc;
     background: rgba(255,255,255,0.9);
     border-radius: 5%;
-    /* position: relative;
-    z-index: 1; */
+   
  }
  .overflow {
     width: 100%;
