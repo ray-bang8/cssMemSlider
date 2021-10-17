@@ -116,7 +116,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 100%; */
     color: black;
 }
 .controls {
