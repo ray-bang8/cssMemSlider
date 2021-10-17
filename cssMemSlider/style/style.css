@@ -169,7 +169,6 @@ body {
     background: black;
     border-radius: 100%;
     opacity: 0.7;
-    /* background: #66B2FF; */
  }
  #slide1:hover ~ .controls #bullets label:nth-child(1),
  #slide2:hover ~ .controls #bullets label:nth-child(2),
